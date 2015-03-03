@@ -3,3 +3,5 @@ git status
 git commit -m "comment"
 git --global user.name ""
 git status -s
+
+Working directory (add)- index cache (commit) - local repository(push) - remote repository
