@@ -1,3 +1,4 @@
 git log - to view log
 git status
 git commit -m "comment"
+git --global user.name ""
